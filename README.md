@@ -2,7 +2,7 @@
 
 A turn-based, procedurally generated dungeon crawler built with [p5.js](https://p5js.org/). Pick a class, explore randomly generated floors, fight enemies, collect loot, trade with merchants, and defeat each floor's boss to go deeper.
 
-**Authors:** Naitik Jain, Imroz Gill, Urvi Yadav
+**Contributors:** Maaz Ali, Urvi Yadav, Naitik Jain, Imroz Gill
 
 **Tutorial:** [Google Doc](https://docs.google.com/document/d/1qXCOf1iQT_jbtc7IGTpX79HJmIzkSSSOtnIZziTbFjo/edit?usp=sharing)
 
